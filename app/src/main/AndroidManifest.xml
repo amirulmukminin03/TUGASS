@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TUGAS">
         <activity
+            android:name=".hal6"
+            android:exported="true" />
+        <activity
+            android:name=".hal5"
+            android:exported="true" />
+        <activity
+            android:name=".hal4"
+            android:exported="true" />
+        <activity
+            android:name=".hal3"
+            android:exported="true" />
+        <activity
+            android:name=".hal2"
+            android:exported="true" />
+        <activity
+            android:name=".hal1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TUGAS</string>
+    <string name="pindah_hal1" />
+    <string name="pindah_hal2" />
+    <string name="pindah_hal3" />
+    <string name="pindah_hal4" />
+    <string name="pindah_hal5" />
+    <string name="pindah_hal6" />
 </resources>
